@@ -1,0 +1,6 @@
+node_modules/
+dist/
+cover.out
+cpu.out
+config.json
+logfile.log
